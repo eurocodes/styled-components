@@ -1,0 +1,63 @@
+export const homeObjOne = {
+    lightBg: false,
+    imgStart: "",
+    lightTopLine: true,
+    topLine: "Marketing Agency",
+    headeLine: "Lead Generation Specialists for Online Businesses",
+    lightText: true,
+    description: "We help business owners increase their revenue. Our team of unique specialist can help you achieve your busibess goals",
+    lightTextDesc: true,
+    buttonLabel: "Get Stated",
+    primary: true,
+    img: require("../../images/visionary_technology.svg"),
+    alt: "Image",
+    start: "",
+};
+
+export const homeObjOTwo = {
+    lightBg: true,
+    imgStart: "start",
+    lightTopLine: false,
+    topLine: "Marketing Agency",
+    headeLine: "Lead Generation Specialists for Online Businesses",
+    lightText: false,
+    description: "We help business owners increase their revenue. Our team of unique specialist can help you achieve your busibess goals",
+    lightTextDesc: true,
+    buttonLabel: "Get Stated",
+    primary: false,
+    img: require("../../images/code_review_1.svg"),
+    alt: "Image",
+    start: "true",
+};
+
+export const homeObjThree = {
+    lightBg: false,
+    imgStart: "",
+    lightTopLine: true,
+    topLine: "Marketing Agency",
+    headeLine: "Lead Generation Specialists for Online Businesses",
+    lightText: true,
+    description: "We help business owners increase their revenue. Our team of unique specialist can help you achieve your busibess goals",
+    lightTextDesc: true,
+    buttonLabel: "Get Stated",
+    primary: true,
+    img: require("../../images/lost_online.svg"),
+    alt: "Image",
+    start: "",
+};
+
+export const homeObjFour = {
+    lightBg: true,
+    imgStart: "start",
+    lightTopLine: true,
+    topLine: "Marketing Agency",
+    headeLine: "Lead Generation Specialists for Online Businesses",
+    lightText: false,
+    description: "We help business owners increase their revenue. Our team of unique specialist can help you achieve your busibess goals",
+    lightTextDesc: true,
+    buttonLabel: "Get Stated",
+    primary: true,
+    img: require("../../images/visionary_technology.svg"),
+    alt: "Image",
+    start: "true",
+};
